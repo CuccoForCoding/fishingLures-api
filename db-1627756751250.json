@@ -1,0 +1,61 @@
+{
+  "lures": [
+    {
+      "id": 0,
+      "name": "Wobble Jack",
+      "store": "Bass Pro Shops",
+      "web": "https://www.basspro.com/shop/en/bass-pro-shops-wobble-jack-hardbait",
+      "description": " Bass Pro Shops® Wobble Jack hardbait offers the aggressive wobbling action",
+      "colors": [
+        "Silver",
+        "Rainbow Trout",
+        "Black Scale Silver",
+        "Blue Scale Silver",
+        "Halloween Mustard",
+        "Clown",
+        "Watermelon",
+        "Chartreuse Perch",
+        "Firetiger",
+        "Red Head"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "webId": 100114572,
+          "line1": "Baldwin Rd",
+          "line2": "Auburn Hills",
+          "state": "Michigan",
+          "postcode": "48326",
+          "country": "United States"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Hammered Spoon",
+      "store": "Bass Pro Shops",
+      "web": "https://www.basspro.com/shop/en/cabelas-fisherman-series-game-fish-hammered-spoon",
+      "description": "Game Fish Hammered Spoon can be used to catch everything from the most finicky panfish to king salmon. Great flash, tempting wobble!",
+      "colors": [
+        "Purple Blue",
+        "Nickel/Neon Blue",
+        "Gold Fluorescent Orange",
+        "Gold Blue Green",
+        "Gold",
+        "Nickel",
+        "Nickel/Neon Green"
+      ],
+      "addresses": [
+        {
+          "addressId": 0,
+          "webId": 100330773,
+          "line1": "Baldwin Rd",
+          "line2": "Auburn Hills",
+          "state": "Michigan",
+          "postcode": "48326",
+          "country": "United States"
+        }
+      ]
+    }
+  ]
+}
