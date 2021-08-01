@@ -1,1 +1,23 @@
-{}
+{
+  "name": "fishinglures-api",
+  "description": "My Fishing Lures API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CuccoForCoding/fishingLures-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CuccoForCoding/fishingLures-api/issues"
+  },
+  "homepage": "https://github.com/CuccoForCoding/fishingLures-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
