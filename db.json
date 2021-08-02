@@ -1,4 +1,5 @@
-{
+
+ {
     "lures": [
         {
             "id": 0,
@@ -21,13 +22,13 @@
             "addresses": [
                 {
                     "addressId": 0,
-                    "webId": 100114572,
+                   "webId": 100114572,
                     "line1": "Baldwin Rd",
                     "line2": "Auburn Hills",
                     "state": "Michigan",
                     "postcode": "48326",
                     "country": "United States"
-                }
+               }
             ]
         },
         {
@@ -37,7 +38,7 @@
             "web": "https://www.basspro.com/shop/en/cabelas-fisherman-series-game-fish-hammered-spoon",
             "description": "Game Fish Hammered Spoon can be used to catch everything from the most finicky panfish to king salmon. Great flash, tempting wobble!",
             "colors": [
-                "Purple Blue",
+               "Purple Blue",
                 "Nickel/Neon Blue",
                 "Gold Fluorescent Orange",
                 "Gold Blue Green",
@@ -54,8 +55,638 @@
                     "state": "Michigan",
                     "postcode": "48326",
                     "country": "United States"
-                }
-            ]
-        }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Bill Lewis Original Rat-L-Trap",
+        "store": "Bass Pro Shops",
+        "web": "https://www.basspro.com/shop/en/bill-lewis-original-rat-l-trap",
+        "description": "The famous Bill Lewis Original Rat-L-Trap® is the cornerstone of the #1 selling hardbait series in the world. It's been that way for over 25 years, and there's a good reason for this lipless crankbait's overwhelming popularity: it just flat-out catches fish! ",
+        "colors": [
+          "100+ patterns"
+        ],
+        "addresses": [
+          {
+            "addressId": 0,
+            "webId": "7601",
+            "line1": "Baldwin Rd",
+            "line2": "Auburn Hills",
+            "state": "Michigan",
+            "postcode": "48326",
+            "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "BOOYAH Squarebill Crankbait",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/booyah-squarebill-crankbait",
+        "description": "Full bump-and-run coverage on big bass! The BOOYAH® Squarebill Crankbait locks down the pattern with a silent, non-rattling swim that features plenty of wobble and roll, for amazing side-flash –and then boom!",
+        "colors": [
+          "Citrus Shad",
+          "Tennessee Special",
+          "Black Chartreuse",
+          "Foxy Shad",
+          "Rayburn Red"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 100321919,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Cabela's Casting Spoon",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/cabelas-casting-spoon",
+        "description": "Representing one of the most tried-and-true lure styles, our Cabela's® Casting Spoon offers lifelike wounded-minnow action, responsive control, and unbelievable casting distance.",
+        "colors": [
+          "Nickel/Blue",
+          "Rainbow",
+          "Brook Trout",
+          "Nickel/Fluorescent Orange",
+          "Gold Perch",
+          "Nickel",
+          "Firetiger",
+          "Nickel/Neon Green",
+          "Nickle Fluorescent"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 100119380,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Eppinger Original Dardevle Spoon",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/eppinger-original-dardevle-spoon",
+        "description": "The classic Eppinger® Original Dardevle® Spoon, one of the most popular and effective all-around fishing lures in history, is as deadly as ever.",
+        "colors": [
+          "Red White Stripe Nickel Back",
+          "Hot Mackerel",
+          "Hammered Nickel Blue",
+          "Hammered Nickel Green Gold",
+          "Red White Stripe Copper Back",
+          "Red White Stripe Copper Back",
+          "Scale Chartreuse/Black Stripe",
+          "Hammered Nickel Green Red",
+          "Pearl Clown",
+          "Pumpkinseed Sunfish",
+          "Black White Stripe",
+          "Brass",
+          "Chartreuse Red Spot",
+          "Rainbow Trout",
+          "Black Perch",
+          "Fluorescent Orange Black Spot",
+          "Yellow Red Diamonds",
+          "Nickel",
+          "Yellow Red Ladder",
+          "Chartreuse Orange"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 2918,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Rapala Jigging Rap",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/rapala-jigging-rap",
+        "description": "Do as many tournament anglers do when the bite suddenly slows: vertical jig for suspended fish with the Rapala® Jigging Rap®.",
+        "colors": [
+          "Glow Yellow Perch",
+          "Silver Fluorescent Chartreuse",
+          "Silver",
+          "Chrome Blue",
+          "Bluegill",
+          "Purpledescent",
+          "Glow Tiger",
+          "Gold Fluorescent Red",
+          "Glow Hot Perch",
+          "Green Tiger UV",
+          "Pearl White",
+          "Orange Tiger UV",
+          "Glow",
+          "Pink Tiger UV",
+          "Rainbow Trout",
+          "Glow Green Tiger",
+          "Helsinki Shad",
+          "Redfire Crawdad",
+          "Clown",
+          "Regal Shad",
+          "Perch",
+          "Glow Red Tiger",
+          "Chrome Red",
+          "Gold"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 28421,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "SteelShad Blade Bait",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/steelshad-blade-bait",
+        "description": "Good luck making an actual list of fish that won't smack a SteelShad® Blade Bait. Virtually all predators are at risk when this flashy vibrating lure hits the water! Jig it, crank it, troll it.",
+        "colors": [
+          "Perch",
+          "Glow Yellow",
+          "Silver",
+          "Red Crawfish",
+          "Trout",
+          "Glow Silver",
+          "Glow White",
+          "Glow Orange",
+          "Tennessee Shad",
+          "White Shad",
+          "Glow Green",
+          "Sexy Shad",
+          "Perch",
+          "Gold",
+          "Kentucky Shad",
+          "Yellow Shad"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 100080013,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Acme Little Cleo Spoon",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/acme-little-cleo-spoon",
+        "description": "For decades, the Acme® Little Cleo® Spoon has been consistently taking game fish all over North America. Its unique hump-backed shape delivers a seductive, wiggling action at a wide range of retrieve speeds with occasional kick-outs that trigger a quick response from following game fish. Flashy and erratic, Little Cleo is tough to beat for long-distance casting or trolling presentations!",
+        "colors": [
+          "Blue Digger",
+          "Green Digger",
+          "Gold Neon Red",
+          "Hammered Nickel",
+          "Copper",
+          "Gold Fluorescent Orange Stripe",
+          "Rainbow Trout",
+          "Glow Fluorescent Stripe",
+          "Glow Green",
+          "Pearl Red",
+          "Nickel Chartreuse Stripe",
+          "Metallic Perch",
+          "Glow Watermelon",
+          "Nickel Neon Green",
+          "Firetiger",
+          "Nickel Neon Blue",
+          "Nickel Flo. Orange Stripe",
+          "Hammered Nickel Blue",
+          "Hammered Green Gold",
+          "Hammered Nickel Green",
+          "Glow Blue",
+          "Glow Fire Dots",
+          "Watermelon",
+          "Yellow Red Dots",
+          "Gold",
+          "Bloody Nose",
+          "Glow Blue Digger",
+          "Nickel",
+          "Glow Green Digger"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 14081607120112,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "River2Sea Dahlberg Series Silent Whopper Plopper",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/River2Sea-Dahlberg-Series-Silent-Whopper-Plopper",
+        "description": "Designed by Larry Dahlberg, the River2Sea®'s Dahlberg Series Silent Whopper Plopper is a topwater, bass-sized lure that operates at a range of speeds.",
+        "colors": [
+          "Blue Blood",
+          "Munky Butt",
+          "sage and onion stuffing",
+          "T1000",
+          "Bluegill",
+          "Loon",
+          "Rat Ta Tat",
+          "Bone",
+          "Crystal Minnow",
+          "Phantom Shad",
+          "Perch",
+          "Sooner",
+          "I Know It",
+          "Yellow Head",
+          "Terminator"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 2331982,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Rapala Original Floating Minnow",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/rapala-original-floating-minnow",
+        "description": "The Rapala® Original Floating® Minnow is the lure that started it all and is still one of the most popular lures around.",
+        "colors": [
+          "Live Rainbow Trout",
+          "Silver",
+          "Silver Fluorescent Chartreuse",
+          "Live Smelt",
+          "Gold Plated Fluorescent Red",
+          "Purpledescent",
+          "Gold Fluorescent Red",
+          "Brown Trout",
+          "Live Walleye",
+          "Live Pike",
+          "Rainbow Trout",
+          "Blue",
+          "Shiner",
+          "Perch",
+          "Gold",
+          "Firetiger",
+          "Yellow Perch",
+          "Hot Steel",
+          "Vampire"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 2842,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Bass Pro Shops Tourney Special Rattle Bait",
+        "store": "Yankys",
+        "web": "https://www.cabelas.com/shop/en/bass-pro-shops-tourney-special-rattle-bait",
+        "description": "Now you can unlock the incredible fish-catching potential of our Bass Pro Shops® Tourney Special Rattle Bait without making your wallet flinch.",
+        "colors": [
+          "Tennessee Shad",
+          "Chrome/Black Back",
+          "White Shad",
+          "Golden Tiger",
+          "Ghost Spook",
+          "Red Shad",
+          "Firetiger",
+          "Bone XXX Shad",
+          "Chrome/Blue Back"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 10225063,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "YUM Yumbrella Flash Mob Junior with Willow Blades",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/yum-yumbrella-flash-mob-junior-with-willow-blades",
+        "description": "Bass and stripers often feed on big baitfish, but sometimes a smaller offering gets more attention. The YUM® Yumbrella® Flash Mob Junior is a multi-lure rig that's smaller than the full-size rigs used with great success by many anglers in summer and winter.",
+        "colors": [
+          "N/A"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 206280436379,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "BOOYAH Tandem Blade Spinnerbait",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/booyah-tandem-blade-spinnerbait/",
+        "description": "Color for color, component for component, the BOOYAH® Tandem Blade Spinnerbait is one of the finest spinnerbaits made today.",
+        "colors": [
+          "Snow White",
+          "White Chartreuse",
+          "Chartreuse White Shad",
+          "Silver Shiner",
+          "Chartreuse Shad",
+          "Perch",
+          "Gold Shiner"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 51784,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "YUM Dinger",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/yum-dinger",
+        "description": "The YUM® Dinger™ is one of the few lures that catches bass whether they're feeding or not. No other style of lure gets inactive fish to strike like this one does. The YUM Dinger can be rigged Texas-, Carolina-, or wacky- style.’",
+        "colors": [
+          "Watermelon Pearl",
+          "Bumble Bee Swirl",
+          "Mardi Gras",
+          "Bubble Gum",
+          "California Craw/Gold Flake",
+          "Bream",
+          "Elder's Magic",
+          "Pearl Silver Flake",
+          "Cajun Neon",
+          "Sugar Plum",
+          "Ozark Shadow",
+          "Bama Bug",
+          "Bourbon Berry",
+          "Ghillie Suit",
+          "Bama Magic",
+          "Green Pumpkin Purple Flake",
+          "Chartreuse Pepper",
+          "Green Pumpkin Chartreuse",
+          "Smoke Red Pepper",
+          "Summer Gill",
+          "Black Blue Swirl",
+          "Bubble Gum Lemon Swirl",
+          "Green Pumpkin/Blue Flake",
+          "Carolina Pumpkin Chartreuse",
+          "Tinfoil",
+          "Watermelon Candy",
+          "June Bug"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 14071007465716,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Northland Mimic Minnow Shad",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/northland-mimic-minnow-shad",
+        "description": "The Northland Mimic Minnow® Shad is a unique jig-and-soft-plastic bait with a hyperactive paddle tail that wiggles enticingly as the lure moves through the water, regardless of its speed.",
+        "colors": [
+          "Silver Shiner",
+          "Bluegill",
+          "cheddar mayo",
+          "Perch",
+          "Firetiger"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 100144410,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Bass Pro Shops Marabou Crappie Jig",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/bass-pro-shops-marabou-crappie-jig",
+        "description": "The marabou tail on our classic Bass Pro Shops® Marabou Crappie Jigs provides the ultimate, crappie-catching action with just the slightest movement of your rod tip.",
+        "colors": [
+          "Red Black Yellow",
+          "Red White White",
+          "Red Chartreuse White",
+          "Yellow Black Yellow",
+          "Purple",
+          "Red Yellow Yellow",
+          "Pink White White",
+          "Chartreuse",
+          "Black",
+          "Yellow",
+          "White",
+          "Red Black White",
+          "Brown Orange Brown",
+          "Red Blue White",
+          "Gray"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 15631,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          } 
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Googan Baits Trench Hawg",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/googan-baits-trench-hawg",
+        "description": "Is it a crawdad? A salamander? A creature bait from outer space? It doesn't matter, because the Googan Baits Trench Hawg displays so many lifelike, strike-tempting movements, the fish won't care at all! The long flexible body dives and surfaces with fluid movements.",
+        "colors": [
+          "Okeechobee Craw",
+          "Green Pumpkin Purple",
+          "Summer Craw",
+          "Watermelon Red Flake",
+          "Bama Bug",
+          "Black Blue Flake",
+          "California Craw",
+          "Green Pumpkin"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 100793608,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Strike King Bitsy Flip Jig",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/strike-king-bitsy-flip-jig",
+        "description": "You won't find a better jig for flipping in clear water. The Strike King® Bitsy Flip™ Jig is built to glide through heavy cover, with an extra-strong weed guard and a snagless-weedless head design.",
+        "colors": [
+          "Black",
+          "ajun Crawfish",
+          "Green Crawfish",
+          "atermelon",
+          "Black Blue"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 28418,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Bass Pro Shops Enticer Swim Jigs",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/bass-pro-shops-enticer-swim-jigs",
+        "description": "taste of hormone-free running cows",
+        "colors": [
+          "Sexy Shad",
+          "Bluegill",
+          "White",
+          "Green Pumpkin",
+          "Black Blue"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 1403070936302,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "BOOYAH Micro Pond Magic Spinnerbaits",
+        "store": "Bass Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/booyah-micro-pond-magic-spinnerbaits",
+        "description": "The Micro Pond Magic™ Spinnerbaits are not just a smaller version of BOOYAH®'s Pond Magic Spinnerbaits, but rather they are unique fish-catching machines in their own right. Tough, durable and offering the same quality as the original Pond Magic Spinnerbaits, the 1/8 oz. Micro Pond Magic Spinnerbaits catch fish in big lakes as well as ponds and streams.",
+        "colors": [
+          "Wasp",
+          "Lightning Bug",
+          "Pumpkin Seed",
+          "Alpine",
+          "Fire Ant"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 10209384,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Berkley Saltwater Gulp! Sand Crab/Flea",
+        "store": "Baqss Pro Shops",
+        "web": "https://www.cabelas.com/shop/en/berkley-saltwater-gulp%21-sand-crab-flea",
+        "description": "Berkley's® Saltwater Gulp!® Sand Crab/Fleas offer an authentic taste, look and feel plus rapid scent dispersion to attract fish from a greater distance. Proven to out catch other baits including live and cut baits, the Gulp! Sand Crab/Flea baits are small in size but big on durability. Available in a variety of hatch matching colors. Sold by total bag weight in ounces.",
+        "colors": [
+          "N/A"
+        ],
+        "addresses": [
+            {
+                "addressId": 0,
+               "webId": 97377,
+                "line1": "Baldwin Rd",
+                "line2": "Auburn Hills",
+                "state": "Michigan",
+                "postcode": "48326",
+                "country": "United States"
+          }
+        ]
+      },
+      
+      {
+           
+      }
     ]
-}
+  }
